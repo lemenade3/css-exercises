@@ -1,4 +1,4 @@
-# CSS Exercises
+  # CSS Exercises
 
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
 
@@ -32,8 +32,8 @@ These exercises should be done when instructed during the course of the curricul
   - 06-cascade-fix [✅]
 
 2. Margin and Padding:
-  - margin-and-padding-1 [ ]
-  - margin-and-padding-2 [ ]
+  - margin-and-padding-1 [✅]
+  - margin-and-padding-2 [✅]
  
 3. Flex:
   - 01-flex-center [ ]
